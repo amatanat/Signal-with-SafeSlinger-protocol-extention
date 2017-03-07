@@ -1,0 +1,29 @@
+gcm:
+  xmpp: false
+  senderId: 
+  apiKey: 
+  redphoneApiKey: 
+
+apn:
+  pushCertificate: Cdsjalfksjdlfkjsdlfksdlfkjsdfkjas
+  pushKey: Ksflskdjfalsdkfjslkfslkfslkgslgkj
+  voipCertificate: Cdsjalfksjdlfkjsdlfksdlfkjsdfkjas
+  voipKey: Ksflskdjfalsdkfjslkfslkfslkgslgkj
+
+redis:
+  url: http://127.0.0.1:6379
+
+authentication:
+  servers:
+  -  name: test		     
+     password: example 		
+
+server:
+    applicationConnectors:
+    - type: http
+      port: 9090
+    adminConnectors:
+    - type: http
+      port: 9091
+
+
