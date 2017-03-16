@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.whispersystems.textsecuregcm.tests.entities.PreKeyTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec

@@ -1,0 +1,75 @@
+twilio: # Twilio SMS gateway configuration
+  accountId:
+  accountToken:
+  number:  # [+....]
+  localDomain: # The domain Twilio can call back to.
+
+push: # GCM/APN push server configuration
+  host: 192.168.0.201   #server's IP address
+  port: 9090
+  username: test	#should be the same as in pushconfig.yml
+  password: example	#should be the same as in pushconfig.yml
+
+server:
+  applicationConnectors:
+    - type: https
+      port: 8080
+      keyStorePath: config/example.keystore
+      keyStorePassword: example
+      validateCerts: false
+  adminConnectors:
+    - type: https
+      port: 8081
+      keyStorePath: config/example.keystore
+      keyStorePassword: example
+      validateCerts: false
+
+s3: # AWS S3 configuration
+  accessKey: 
+  accessSecret: 
+
+  # Name of the S3 bucket (needs to have been created)
+  # for attachments to go.  Should be configured with
+  # correct permissions.
+  attachmentsBucket:
+
+directory: # Redis server configuration for TS directory
+  url: http://127.0.0.1:6379
+
+cache: # Redis server configuration for general purpose caching
+  url: http://127.0.0.1:6379
+
+websocket:
+  enabled: true
+
+messageStore: # Postgres database configuration for message store
+  driverClass: org.postgresql.Driver
+  user:
+  password:
+  url: jdbc:postgresql://localhost:5432/messagedb
+
+database: # Postgres database configuration for account store
+  # the name of your JDBC driver
+  driverClass: org.postgresql.Driver
+  # the username
+  user:
+  # the password
+  password:
+  # the JDBC URL
+  url: jdbc:postgresql://localhost:5432/accountdb    #jdbc:postgresql://somehost:somport/somedb
+  # any properties specific to your JDBC driver:
+  properties:
+    charSet: UTF-8
+
+redphone:
+    authKey:    #gcm sender ID in pushconfig.yml
+
+#federation:
+ #  name:
+  # peers: 
+  #   -
+   #    name: somepeer
+    #   url: https://foo.com
+     #  authenticationToken: foo
+      # certificate: in pem format 
+
