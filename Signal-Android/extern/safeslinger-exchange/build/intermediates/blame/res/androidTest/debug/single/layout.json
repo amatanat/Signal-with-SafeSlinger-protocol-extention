@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/res/merged/androidTest/debug/layout/sse__splash.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/layout/sse__splash.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/res/merged/androidTest/debug/layout/sse__promptdialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/layout/sse__promptdialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/res/merged/androidTest/debug/layout/sse__verifywords.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/layout/sse__verifywords.xml"
+    }
+]

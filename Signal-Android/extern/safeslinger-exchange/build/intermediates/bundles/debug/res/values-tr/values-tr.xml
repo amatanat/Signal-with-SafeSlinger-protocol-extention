@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ask_QuitConfirmation">Çıkmak istediğinize emin misiniz?</string>
+    <string name="btn_Match">Sonraki</string>
+    <string name="btn_NoMatch">Eşleşme Yok</string>
+    <string name="choice_NumUsers">%d kullanıcı</string>
+    <string name="error_AllMembersMustUpgrade">Bazı üyeler eski bir sürümünü kullanıyor; tüm üyeler yeni sürüme yükseltmeniz gerekir.</string>
+    <string name="error_AllMembersMustUpgradeBadPushToken">Tüm üyeler bazı eski itme kaydı biçimlerini kullanan, yükseltmeniz gerekir.</string>
+    <string name="error_CorrectYourInternetConnection">İnternet bağlantınız yok, ayarlarınızı kontrol edin.</string>
+    <string name="error_ExchangeProtocolTimeoutExceeded">Değişim zaman aşımı aşıldı. Yine değişimi başlayın.</string>
+    <string name="error_HttpCode">Sunucu HTTP Hatası: %d</string>
+    <string name="error_InvalidCommitVerify">Yanlış veri değişimi bulundu. Yine değişimi başlayın.</string>
+    <string name="error_InvalidCommonUserId">Lütfen pozitif bir değer girin.</string>
+    <string name="error_LocalGroupCommitDiffer">Siz cümleleri bir fark bildirdi. Yine değişimi başlayın.</string>
+    <string name="error_MinUsersRequired">%d üyeden en az veri alışverişi için gereklidir.</string>
+    <string name="error_MoreDataThanUsers">Beklenmeyen veri değişimi bulundu. Yine değişimi başlayın.</string>
+    <string name="error_NoDataToExchange">Döviz gerekli verileri eksik.</string>
+    <string name="error_NoWordListSelected">Sen devam etmeden önce cümleleri birini seçmelisiniz.</string>
+    <string name="error_OtherGroupCommitDiffer">Birisi cümleleri bir fark bildirdi. Yine değişimi başlayın.</string>
+    <string name="error_OutOfMemoryError">Bu işlemi tamamlamak için hafızada yer yok.</string>
+    <string name="error_ServerAppMessage">Sunucu İleti: %s</string>
+    <string name="error_ServerNotResponding">Sunucu yanıt vermiyor.</string>
+    <string name="error_TimeoutWaitingForAllMembers">Bazı grup üyeleri veri eklemek için zaman aşımı bekliyor.</string>
+    <string name="error_WebCancelledByUser">Kullanıcı sunucu isteğini iptal etti.</string>
+    <string name="help_size">Birlikte veri ve OK tuşuna basın alışverişinde çalışıyorsunuz insanların sayısını seçin.</string>
+    <string name="help_userid">Bu ekranda bu sayı benzersiz bir kullanıcı grubu oluşturmak için kullanılır. Daha sonra tüm kullanıcılar aynı düşük sayı ve OK tuşuna basın girmelidir, tüm kullanıcıların ekranlarında numaralarını inceleyin.</string>
+    <string name="help_verify">Şimdi, tüm kullanıcılar bu 3-sözcük öbekleri biri eşleşmelidir. Her kullanıcı aynı ortak ifade seçin ve İleri\'yi basmanız gerekir.</string>
+    <string name="label_CompareScreensNDevices">%s cihazlarda ekranları karşılaştırın.</string>
+    <string name="label_NumericModeHint">İngilizce Olmayan</string>
+    <string name="label_PromptInstruct">Bu sayı bir kullanıcı benzersiz grup oluşturmak için kullanılır. Karşılaştırın ve ardından tüm kullanıcılar arasında en numarasını girin.</string>
+    <string name="label_ReceivedNItems">%d ürün alınan</string>
+    <string name="label_UserIdHint">En düşük</string>
+    <string name="label_VerifyInstruct">Tüm telefonlar 3-sözcük öbekleri biri eşleşmelidir. Karşılaştırın ve ardından eşleşen ifade seçin.</string>
+    <string name="lib_name">SafeSlinger Borsası</string>
+    <string name="prog_CollectingOthersCommitVerify">Tüm üyelerin doğrulama için bekliyor…</string>
+    <string name="prog_CollectingOthersItems">Tüm kullanıcıların katılmak için bekleyen…</string>
+    <string name="prog_ConstructingGroupKey">grup anahtarını inşa…</string>
+    <string name="prog_RequestingUserId">üyelik talebinde…</string>
+    <string name="title_size">Kaç karşılığında kullanıcı?</string>
+    <string name="title_userid">Gruplama</string>
+    <string name="title_verify">Doğrulamak</string>
+</resources>

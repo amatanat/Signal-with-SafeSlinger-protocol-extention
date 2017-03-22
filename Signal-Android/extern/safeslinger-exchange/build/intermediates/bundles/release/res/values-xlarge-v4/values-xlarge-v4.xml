@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sse__button_side_margin">30dp</dimen>
+    <dimen name="sse__size_20dp">40dp</dimen>
+    <dimen name="sse__size_5dp">10dp</dimen>
+    <dimen name="sse__text_size_50">100sp</dimen>
+    <dimen name="sse__text_size_large">44sp</dimen>
+    <dimen name="sse__text_size_medium">36sp</dimen>
+    <dimen name="sse__text_size_micro">24sp</dimen>
+    <dimen name="sse__text_size_small">28sp</dimen>
+</resources>

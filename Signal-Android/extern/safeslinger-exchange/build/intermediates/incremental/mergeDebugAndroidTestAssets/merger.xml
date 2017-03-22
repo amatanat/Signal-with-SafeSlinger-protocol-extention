@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/src/androidTest/assets"/></dataSet></merger>

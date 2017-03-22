@@ -1,0 +1,748 @@
+[
+    {
+        "outputFile": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/res/merged/androidTest/debug/values-pt/values-pt.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 72,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 42,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 42,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 48,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 48,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 55,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 55,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 168,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 168,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 163,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 163,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 121,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 121,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 123,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endColumn": 123,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 68,
+                    "endOffset": 919
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 68,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 924,
+                    "endColumn": 117,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endColumn": 117,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endColumn": 98,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 98,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endColumn": 122,
+                    "endOffset": 1259
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 122,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1264,
+                    "endColumn": 104,
+                    "endOffset": 1364
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 104,
+                        "endOffset": 1364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1369,
+                    "endColumn": 117,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1369,
+                        "endColumn": 117,
+                        "endOffset": 1482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 91,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1487,
+                        "endColumn": 91,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 109,
+                    "endOffset": 1684
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 109,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1689,
+                    "endColumn": 123,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1689,
+                        "endColumn": 123,
+                        "endOffset": 1808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 103,
+                    "endOffset": 1912
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1813,
+                        "endColumn": 103,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1917,
+                    "endColumn": 69,
+                    "endOffset": 1982
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1917,
+                        "endColumn": 69,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1987,
+                    "endColumn": 79,
+                    "endOffset": 2062
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1987,
+                        "endColumn": 79,
+                        "endOffset": 2062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2067,
+                    "endColumn": 135,
+                    "endOffset": 2198
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2067,
+                        "endColumn": 135,
+                        "endOffset": 2198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2203,
+                    "endColumn": 91,
+                    "endOffset": 2290
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2203,
+                        "endColumn": 91,
+                        "endOffset": 2290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2295,
+                    "endColumn": 122,
+                    "endOffset": 2413
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2295,
+                        "endColumn": 122,
+                        "endOffset": 2413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2418,
+                    "endColumn": 244,
+                    "endOffset": 2658
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2418,
+                        "endColumn": 244,
+                        "endOffset": 2658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2663,
+                    "endColumn": 194,
+                    "endOffset": 2853
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2663,
+                        "endColumn": 194,
+                        "endOffset": 2853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2858,
+                    "endColumn": 90,
+                    "endOffset": 2944
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2858,
+                        "endColumn": 90,
+                        "endOffset": 2944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2949,
+                    "endColumn": 60,
+                    "endOffset": 3005
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2949,
+                        "endColumn": 60,
+                        "endOffset": 3005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3010,
+                    "endColumn": 191,
+                    "endOffset": 3197
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3010,
+                        "endColumn": 191,
+                        "endOffset": 3197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3202,
+                    "endColumn": 65,
+                    "endOffset": 3263
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3202,
+                        "endColumn": 65,
+                        "endOffset": 3263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3268,
+                    "endColumn": 57,
+                    "endOffset": 3321
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3268,
+                        "endColumn": 57,
+                        "endOffset": 3321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3326,
+                    "endColumn": 169,
+                    "endOffset": 3491
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3326,
+                        "endColumn": 169,
+                        "endOffset": 3491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3496,
+                    "endColumn": 55,
+                    "endOffset": 3547
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3496,
+                        "endColumn": 55,
+                        "endOffset": 3547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3552,
+                    "endColumn": 108,
+                    "endOffset": 3656
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3552,
+                        "endColumn": 108,
+                        "endOffset": 3656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3661,
+                    "endColumn": 100,
+                    "endOffset": 3757
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3661,
+                        "endColumn": 100,
+                        "endOffset": 3757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3762,
+                    "endColumn": 83,
+                    "endOffset": 3841
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3762,
+                        "endColumn": 83,
+                        "endOffset": 3841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3846,
+                    "endColumn": 71,
+                    "endOffset": 3913
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3846,
+                        "endColumn": 71,
+                        "endOffset": 3913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3918,
+                    "endColumn": 65,
+                    "endOffset": 3979
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3918,
+                        "endColumn": 65,
+                        "endOffset": 3979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3984,
+                    "endColumn": 52,
+                    "endOffset": 4032
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3984,
+                        "endColumn": 52,
+                        "endOffset": 4032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4037,
+                    "endColumn": 50,
+                    "endOffset": 4083
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/extern/safeslinger-exchange/build/intermediates/bundles/debug/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4037,
+                        "endColumn": 50,
+                        "endOffset": 4083
+                    }
+                }
+            }
+        ]
+    }
+]
