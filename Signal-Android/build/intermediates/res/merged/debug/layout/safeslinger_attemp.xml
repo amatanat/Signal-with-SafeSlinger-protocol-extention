@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+                       android:id="@+id/editTextAttemptName"
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:hint="@string/dev_attemptname_hint"
+                       android:inputType="textNoSuggestions"
+                       android:privateImeOptions="nm" />
+</LinearLayout>

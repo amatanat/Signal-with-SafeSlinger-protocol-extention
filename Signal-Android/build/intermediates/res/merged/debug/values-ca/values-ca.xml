@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Mostra\'ls tots"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Comparteix amb %s"</string>
+    <string name="ask_QuitConfirmation">Deixar? Estàs segur?</string>
+    <string name="btn_Match">Següent</string>
+    <string name="btn_NoMatch">No Match</string>
+    <string name="choice_NumUsers">%d usuaris</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necessita que s\'actualitzi l\'aplicació Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà fins que no actualitzis l\'aplicació Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualitza Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necessita un o més serveis de Google Play que actualment no estan disponibles. Posa\'t en contacte amb el desenvolupador per obtenir ajuda."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Activa els serveis de Google Play"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionarà si no actives els serveis de Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Activa els serveis de Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Sol·licitada per <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Baixa els serveis de Google Play"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà si el telèfon no té instal·lats els serveis de Google Play."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà si la tauleta no té instal·lats els serveis de Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Baixa els serveis de Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"El compte especificat no existeix en aquest dispositiu. Tria un compte diferent."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Compte no vàlid"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Una aplicació requereix que s\'activin els serveis de Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Es requereix una connexió de dades per connectar amb els serveis de Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Error de xarxa"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Una aplicació requereix que s\'actualitzin els serveis de Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Error dels serveis de Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"S\'ha produït un error en iniciar la sessió al compte especificat. Selecciona un altre compte."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"S\'ha produït un error en iniciar sessió."</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Error desconegut relacionat amb els serveis de Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> depèn dels serveis de Google Play, que no són compatibles amb el teu dispositiu. Posa\'t en contacte amb el fabricant per obtenir ajuda."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Serveis de Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualitza"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà si no actualitzes els serveis de Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualitza els serveis de Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no s\'executarà sense els serveis de Google Play, que s\'estan actualitzant en aquest moment."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Actualitzant els serveis de Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Obre al telèfon"</string>
+    <string name="error_AllMembersMustUpgrade">Alguns membres estan utilitzant una versió anterior; tots els membres han d\'actualitzar a la versió més recent.</string>
+    <string name="error_AllMembersMustUpgradeBadPushToken">Tots els membres han d\'actualitzar, alguns estan utilitzant els formats de registre d\'empenta grans.</string>
+    <string name="error_CorrectYourInternetConnection">Internet no està disponible, comproveu la configuració.</string>
+    <string name="error_ExchangeProtocolTimeoutExceeded">Canvi de temps d\'espera excedit. Comença l\'intercanvi de nou.</string>
+    <string name="error_HttpCode">Servidor HTTP Error: %d</string>
+    <string name="error_InvalidCommitVerify">Dades incorrectes van trobar a canvi. Comença l\'intercanvi de nou.</string>
+    <string name="error_InvalidCommonUserId">Si us plau, introdueixi un enter positiu.</string>
+    <string name="error_LocalGroupCommitDiffer">Assenyalat una diferència en frases. Comença l\'intercanvi de nou.</string>
+    <string name="error_MinUsersRequired">Un mínim de %d membres estan obligats a intercanviar dades.</string>
+    <string name="error_MoreDataThanUsers">Dades inesperats van trobar a canvi. Comença l\'intercanvi de nou.</string>
+    <string name="error_NoDataToExchange">L\'intercanvi falten dades requerides.</string>
+    <string name="error_NoWordListSelected">Heu de seleccionar una de les frases abans de procedir.</string>
+    <string name="error_OtherGroupCommitDiffer">Algú ha informat una diferència en frases. Comença l\'intercanvi de nou.</string>
+    <string name="error_OutOfMemoryError">La memòria és massa baixa per completar aquesta operació.</string>
+    <string name="error_ServerAppMessage">Missatge del servidor: %s</string>
+    <string name="error_ServerNotResponding">No hi ha resposta del servidor.</string>
+    <string name="error_TimeoutWaitingForAllMembers">Temps d\'espera d\'espera d\'alguns membres del grup per afegir fitxers.</string>
+    <string name="error_WebCancelledByUser">Usuari cancel·lat sol·licitud del servidor.</string>
+    <string name="help_size">Seleccioneu el nombre de persones que estan tractant d\'intercanviar dades junts i premeu OK.</string>
+    <string name="help_userid">Aquest número en aquesta pantalla s\'utilitza per crear un grup únic d\'usuaris. Revisi els números a les pantalles de tots els usuaris, a continuació, tots els usuaris han d\'introduir la mateixa sota el nombre i premeu D\'acord.</string>
+    <string name="help_verify">Ara, ha de coincidir amb una d\'aquestes frases de 3 paraules amb tots els usuaris. Cada usuari ha de seleccionar la mateixa frase comuna, i premi Següent.</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">hores</string>
+    <string name="label_CompareScreensNDevices">Comparar pantalles en dispositius %s.</string>
+    <string name="label_NumericModeHint">No-Anglès</string>
+    <string name="label_PromptInstruct">Aquest número s\'utilitza per crear un grup únic d\'usuaris. Comparar i després introduïu el número més baix entre tots els usuaris.</string>
+    <string name="label_ReceivedNItems">rebre %d articles</string>
+    <string name="label_UserIdHint">Menor</string>
+    <string name="label_VerifyInstruct">Tots els telèfons han de coincidir amb una de les frases de 3 paraules. Compari, i després triar la frase corresponent.</string>
+    <string name="lib_name">SafeSlinger Canvi</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minuts</string>
+    <string name="number_delete">Esborrar</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="picker_cancel">Cancellar</string>
+    <string name="picker_set">Acceptar</string>
+    <string name="prog_CollectingOthersCommitVerify">l\'espera de la verificació de tots els membres…</string>
+    <string name="prog_CollectingOthersItems">esperant a tots els usuaris a unir-se…</string>
+    <string name="prog_ConstructingGroupKey">la construcció de clau de grup…</string>
+    <string name="prog_RequestingUserId">sol·licitant la membresía…</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">segons</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">Esborrar</string>
+    <string name="title_size">Quants usuaris en l\'intercanvi?</string>
+    <string name="title_userid">Agrupament</string>
+    <string name="title_verify">Verificar</string>
+</resources>
