@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge/values-xlarge.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 132,
+                    "endColumn": 63,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge/values-xlarge.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 63,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 66,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge/values-xlarge.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 66,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 66,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge/values-xlarge.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 66,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 65,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge/values-xlarge.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 65,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 65,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge/values-xlarge.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 65,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 54,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 45,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 45,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 44,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 44,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 49,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 49,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 51,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 51,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 52,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 52,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 51,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 51,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 51,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 51,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endColumn": 54,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge/values-xlarge.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 54,
+                        "endOffset": 989
+                    }
+                }
+            }
+        ]
+    }
+]

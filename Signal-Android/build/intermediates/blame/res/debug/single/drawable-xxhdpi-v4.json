@@ -1,0 +1,1186 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/textfield_default_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_headset_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_headset_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_unlocked_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_unlocked_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_recents_normal_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_recents_normal_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_done_white_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_done_white_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_objects_normal_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_objects_normal_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/transfer_controls_background.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/transfer_controls_background.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_content_copy_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_content_copy_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_symbols_activated_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_symbols_activated_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_info_outline_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_info_outline_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_laptop_black_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_laptop_black_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/divet_lower_right_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/divet_lower_right_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_bg_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/switch_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_visibility_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_visibility_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_local_movies_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_local_movies_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_remove_holo_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_menu_remove_holo_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_message_gray.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_message_gray.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_forum_grey_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_forum_grey_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_close_grey600_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_close_grey600_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/textfield_focused_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_content_copy_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_content_copy_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_visibility_off_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_visibility_off_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_archive_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_archive_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_lock_holo_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_menu_lock_holo_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_create_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_create_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/powered_by_google_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/res/drawable-xxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_nature_activated_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_nature_activated_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_send_push_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_send_push_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/powered_by_google_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/res/drawable-xxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_symbols_normal_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_symbols_normal_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_twilio_shoutout_white.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_twilio_shoutout_white.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/list_pressed_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_attach_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_attach_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_nature_normal_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_nature_normal_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mood_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_mood_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redphone_ic_sound_speakerphone_holo_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/redphone_ic_sound_speakerphone_holo_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_bg_focused_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/switch_bg_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_photo_camera_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_photo_camera_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_contact_picture.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_contact_picture.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_photo_camera_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_photo_camera_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_group_photo.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_group_photo.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mic_white_48dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_mic_white_48dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_refresh_white_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_refresh_white_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_favorite_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_favorite_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redphone_ic_sound_bluetooth_holo_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/redphone_ic_sound_bluetooth_holo_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_send_push.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_send_push.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_unarchive_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_unarchive_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_push_registration_reminder.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_push_registration_reminder.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_phone_grey600_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_phone_grey600_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_account_box_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_account_box_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mic_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_mic_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_backspace_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_backspace_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_error_red_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_error_red_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_places_normal_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_places_normal_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sse__ic_arrow_left.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/drawable-xxhdpi-v4/sse__ic_arrow_left.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_keyboard_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_keyboard_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_add_white_original_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_add_white_original_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/list_longpressed_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/list_longpressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/received_bubble.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/received_bubble.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_done_all_white_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_done_all_white_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_devices_white.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_devices_white.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_reply.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_reply.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redphone_ic_sound_off_speakerphone_holo_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/redphone_ic_sound_off_speakerphone_holo_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_amazon.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_amazon.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_recurrence_bubble_fill.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_recurrence_bubble_disabled.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redlock.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/redlock.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_visibility_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_visibility_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_account_box_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_account_box_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_arrow_forward_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_arrow_forward_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launch_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_launch_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_emoticons_normal_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_emoticons_normal_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_share_black_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_share_black_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_signal_white_48dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_signal_white_48dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_call_split_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_call_split_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_nature_normal_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_nature_normal_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quick_camera_front.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/quick_camera_front.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_file_download_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_file_download_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_reply_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_reply_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sms_system_import_icon.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/sms_system_import_icon.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_thumb_disabled_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_person_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_person_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_objects_normal_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_objects_normal_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_warning_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_warning_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lockscreen_watermark_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/lockscreen_watermark_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/spinner_default_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_movie_creation_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_movie_creation_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/textfield_activated_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quick_camera_hide.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/quick_camera_hide.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_lock_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_lock_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_emoticons_activated_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_emoticons_activated_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_missing_thumbnail_picture.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_missing_thumbnail_picture.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_send_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_send_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_recurrence_bubble_outline.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/ic_recurrence_bubble_outline.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cancel_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sse_ic_arrow_right.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/drawable-xxhdpi-v4/sse_ic_arrow_right.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_group_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_group_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_advanced_black.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_advanced_black.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_textsms_black_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_textsms_black_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_clear_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_forward_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_forward_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_message_black.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_message_black.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_info_outline_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_info_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_download_circle_fill_white_48dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_download_circle_fill_white_48dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_app_protection_black.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_app_protection_black.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_refresh_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_refresh_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_lock_white_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_lock_white_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_call_received_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_call_received_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_places_activated_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_places_activated_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quick_shutter_button.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/quick_shutter_button.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_content_copy_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_content_copy_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_dialpad_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_dialpad_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_volume_up_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_volume_up_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quick_camera_exit_fullscreen.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/quick_camera_exit_fullscreen.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_objects_activated_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_objects_activated_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_delete_black.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_delete_black.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_brightness_6_gray.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_brightness_6_gray.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_app_protection_gray.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_app_protection_gray.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_block_white_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_block_white_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_recents_normal_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_recents_normal_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_brightness_6_black.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_brightness_6_black.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_attach_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_attach_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_emoticons_activated_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_emoticons_activated_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_delete_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/spinner_disabled_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_camera_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_camera_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_recents_activated_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_recents_activated_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_name.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_save_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_save_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_video_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_video_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/lockscreen_watermark_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/lockscreen_watermark_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_objects_activated_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_objects_activated_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_notifications_gray.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_notifications_gray.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_search_holo_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_menu_search_holo_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sse_ic_phone.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/drawable-xxhdpi-v4/sse_ic_phone.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redphone_ic_sound_handset_holo_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/redphone_ic_sound_handset_holo_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_close_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mood_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_mood_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_people_activated_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_people_activated_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_video_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_video_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_places_normal_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_places_normal_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_devices_grey600_48dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_devices_grey600_48dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_delete_gray.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_delete_gray.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sms_selection_icon.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/sms_selection_icon.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_info_outline_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/check.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/check.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_warning_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_warning_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_location_on_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_location_on_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_lock_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_lock_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_call_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_call_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_signal_grey_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_signal_grey_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_movie_creation_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_movie_creation_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/greenchek.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/greenchek.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/textfield_disabled_focused_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_recurrence_bubble_outline_disabled.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_thumb_holo_light_v2.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/switch_thumb_holo_light_v2.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_call_made_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_call_made_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/actionbar_icon_holo_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/actionbar_icon_holo_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_lock_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_volume_off_grey600_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_volume_off_grey600_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_save_all_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_save_all_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_recents_activated_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_recents_activated_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quick_camera_fullscreen.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/quick_camera_fullscreen.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quick_camera_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/quick_camera_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_image_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_image_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_left_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_keyboard_arrow_left_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/divet_lower_right_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/divet_lower_right_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_bg_disabled_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/switch_bg_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_thumb_pressed_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_add_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redphone_ic_mute_holo_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/redphone_ic_mute_holo_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_send_sms_insecure_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_send_sms_insecure_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_symbols_normal_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_symbols_normal_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_down_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_keyboard_arrow_down_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_audio_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_audio_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_forum_black_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_forum_black_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_message_black_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_message_black_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_emoticons_normal_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_emoticons_normal_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_image_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_image_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_people_normal_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_people_normal_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_search_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_thumb_activated_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/switch_thumb_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_people_normal_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_people_normal_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_lock_black_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_lock_black_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_dialog.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/icon_dialog.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_error_white_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_error_white_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_info_outline_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_info_outline_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_text_cursor_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_audio_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_audio_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_call_end_grey600_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_call_end_grey600_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/spinner_focused_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_visibility_off_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_visibility_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quick_camera_rear.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/quick_camera_rear.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_message_white.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_message_white.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_volume_off_white_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_volume_off_white_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_symbols_activated_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_symbols_activated_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_send_sms_insecure.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_send_sms_insecure.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_warning_red.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_action_warning_red.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_nature_activated_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_nature_activated_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_search_holo_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_menu_search_holo_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_notifications_black.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_notifications_black.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redphone_ic_end_call.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/redphone_ic_end_call.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/quick_camera_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/quick_camera_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/greenlock.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/greenlock.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/list_focused_holo.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_laptop_light_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_laptop_light_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_send_sms_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_send_sms_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_advanced_gray.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_advanced_gray.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/textfield_disabled_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_volume_up_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_volume_up_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_people_activated_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_people_activated_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_unarchive_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_unarchive_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_check_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_check_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fab_shadow.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/res/drawable-xxhdpi-v4/fab_shadow.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_select_all_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_select_all_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_group_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_group_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_error_red_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_error_red_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sent_bubble.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/sent_bubble.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_call_secure_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_call_secure_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/splash_logo.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/splash_logo.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_arrow_forward_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_arrow_forward_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_delivery_delivered_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_delivery_delivered_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/love_heart.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/love_heart.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_pause_circle_fill_white_48dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_pause_circle_fill_white_48dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_call_missed_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_call_missed_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_block_grey600_18dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_block_grey600_18dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_devices_black_48dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_devices_black_48dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_emoji_places_activated_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_emoji_places_activated_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_play_circle_fill_white_48dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_play_circle_fill_white_48dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_keyboard_grey600_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_keyboard_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/spinner_pressed_holo_light.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-xxhdpi/spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_image_white_36dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_image_white_36dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_mic_white_24dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_textsms_grey_32dp.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_textsms_grey_32dp.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fab_shadow_mini.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/res/drawable-xxhdpi-v4/fab_shadow_mini.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_contact_picture_large.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-xxhdpi/ic_contact_picture_large.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/preferences_sms_mms.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/preferences_sms_mms.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/contactsformat.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/contactsformat.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/recipient_preferences.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/recipient_preferences.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/preferences_notifications.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/preferences_notifications.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/preferences_app_protection.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/preferences_app_protection.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/preferences_manual_mms.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/preferences_manual_mms.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/preferences_chats.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/preferences_chats.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/preferences_advanced.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/preferences_advanced.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/preferences_appearance.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/preferences_appearance.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/xml/preferences.xml"
+    }
+]

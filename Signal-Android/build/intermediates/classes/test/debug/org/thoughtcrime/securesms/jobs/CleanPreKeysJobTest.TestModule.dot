@@ -1,0 +1,6 @@
+digraph G1 {
+  concentrate = true;
+  n2 [label="AxolotlStorageModule$SignedPreKeyStoreFactory"];
+  CleanPreKeysJob -> n2;
+  CleanPreKeysJob -> TextSecureAccountManager;
+}

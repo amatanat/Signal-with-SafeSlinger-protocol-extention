@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-v21/conversation_list_item_unread_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-v21/conversation_list_item_unread_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-v21/conversation_list_item_read_background_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-v21/conversation_list_item_read_background_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-v21/circle_touch_highlight_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-v21/circle_touch_highlight_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-v21/conversation_list_item_read_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-v21/conversation_list_item_read_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-v21/conversation_list_item_unread_background_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-v21/conversation_list_item_unread_background_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-v21/touch_highlight_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable-v21/touch_highlight_background.xml"
+    }
+]

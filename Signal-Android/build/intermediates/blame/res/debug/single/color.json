@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/text_color_secondary_dark_theme.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/color/text_color_secondary_dark_theme.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/text_color_dark_theme.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/color/text_color_dark_theme.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/recurrence_spinner_text_color.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/color/recurrence_spinner_text_color.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/dialog_text_color_holo_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/color/dialog_text_color_holo_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/dialog_text_color_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/color/dialog_text_color_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/date_picker_selector.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/color/date_picker_selector.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/done_text_color.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/color/done_text_color.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/date_picker_year_selector.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/color/date_picker_year_selector.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/recurrence_bubble_text_color.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/color/recurrence_bubble_text_color.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/color/done_text_color_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/color/done_text_color_dark.xml"
+    }
+]

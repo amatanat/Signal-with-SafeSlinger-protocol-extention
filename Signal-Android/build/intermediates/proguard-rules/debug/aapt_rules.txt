@@ -1,0 +1,666 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/conversation_list_fragment.xml #generated:3
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/conversation_list_fragment.xml #generated:31
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# view res/layout/layout_snackbar.xml #generated:18
+# view sw600dp-v13/res/layout-sw600dp-v13/layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/change_passphrase_activity.xml #generated:21
+# view res/layout/change_passphrase_activity.xml #generated:35
+# view res/layout/change_passphrase_activity.xml #generated:48
+-keep class android.support.design.widget.TextInputLayout { <init>(...); }
+
+# view res/layout/date_picker_view.xml #generated:65
+# view res/layout/emoji_drawer.xml #generated:39
+# view res/layout/experience_upgrade_activity.xml #generated:9
+# view res/layout/expiration_picker_view.xml #generated:66
+# view res/layout/import_export_activity.xml #generated:2
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:130
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/contact_selection_list_fragment.xml #generated:7
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.internal.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.internal.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.internal.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.internal.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.internal.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.internal.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.internal.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_action_mode_close_item_material.xml #generated:17
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:27
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:37
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:48
+# view res/layout/abc_search_view.xml #generated:116
+# view res/layout/abc_search_view.xml #generated:128
+# view res/layout/abc_search_view.xml #generated:38
+# view res/layout/abc_search_view.xml #generated:60
+# view res/layout/abc_search_view.xml #generated:97
+-keep class android.support.v7.internal.widget.TintImageView { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.internal.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/device_link_fragment.xml #generated:17
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/color_preference_items.xml #generated:21
+-keep class android.support.v7.widget.GridLayout { <init>(...); }
+
+# view res/layout/contact_selection_list_fragment.xml #generated:12
+# view res/layout/conversation_fragment.xml #generated:8
+# view res/layout/conversation_list_fragment.xml #generated:20
+# view res/layout/media_overview_activity.xml #generated:9
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/switch_compat_preference.xml #generated:2
+-keep class android.support.v7.widget.SwitchCompat { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/recipient_preference_activity.xml #generated:9
+# view res/layout/toolbar_inner_layout.xml #generated:16
+# view res/layout/toolbar_inner_layout_white.xml #generated:16
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/emoji_drawer.xml #generated:11
+-keep class com.astuetz.PagerSlidingTabStrip { <init>(...); }
+
+# view res/layout/calendar_date_picker_view_animator.xml #generated:16
+-keep class com.doomonafireball.betterpickers.calendardatepicker.AccessibleDateAnimator { <init>(...); }
+
+# view res/layout/calendar_year_label_text_view.xml #generated:16
+-keep class com.doomonafireball.betterpickers.calendardatepicker.TextViewWithCircularIndicator { <init>(...); }
+
+# view res/layout/date_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.datepicker.DatePicker { <init>(...); }
+
+# view res/layout/date_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.datepicker.DateView { <init>(...); }
+
+# view res/layout/expiration_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.expirationpicker.ExpirationPicker { <init>(...); }
+
+# view res/layout/expiration_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.expirationpicker.ExpirationView { <init>(...); }
+
+# view res/layout/hms_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.hmspicker.HmsPicker { <init>(...); }
+
+# view res/layout/hms_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.hmspicker.HmsView { <init>(...); }
+
+# view res/layout/number_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.numberpicker.NumberPicker { <init>(...); }
+
+# view res/layout/number_picker_view.xml #generated:102
+-keep class com.doomonafireball.betterpickers.numberpicker.NumberPickerErrorTextView { <init>(...); }
+
+# view res/layout/number_picker_view.xml #generated:16
+-keep class com.doomonafireball.betterpickers.numberpicker.NumberView { <init>(...); }
+
+# view land/res/layout-land/radial_time_picker_dialog.xml #generated:58
+# view res/layout/radial_time_picker_dialog.xml #generated:34
+-keep class com.doomonafireball.betterpickers.radialtimepicker.RadialPickerLayout { <init>(...); }
+
+# view res/layout/recurrencepicker.xml #generated:122
+# view res/layout/recurrencepicker.xml #generated:147
+-keep class com.doomonafireball.betterpickers.recurrencepicker.LinearLayoutWithMaxWidth { <init>(...); }
+
+# view res/layout/recurrencepicker.xml #generated:132
+# view res/layout/recurrencepicker.xml #generated:134
+# view res/layout/recurrencepicker.xml #generated:136
+# view res/layout/recurrencepicker.xml #generated:138
+# view res/layout/recurrencepicker.xml #generated:140
+# view res/layout/recurrencepicker.xml #generated:142
+# view res/layout/recurrencepicker.xml #generated:144
+# view res/layout/recurrencepicker.xml #generated:157
+# view res/layout/recurrencepicker.xml #generated:159
+# view res/layout/recurrencepicker.xml #generated:161
+# view res/layout/recurrencepicker.xml #generated:163
+-keep class com.doomonafireball.betterpickers.recurrencepicker.WeekButton { <init>(...); }
+
+# view res/layout/time_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.timepicker.TimePicker { <init>(...); }
+
+# view res/layout/time_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.timepicker.TimerView { <init>(...); }
+
+# view res/layout/calendar_date_picker_selected_date.xml #generated:27
+-keep class com.doomonafireball.betterpickers.widget.AccessibleLinearLayout { <init>(...); }
+
+# view res/layout/calendar_date_picker_selected_date.xml #generated:60
+# view res/layout/radial_time_header_label.xml #generated:100
+# view res/layout/radial_time_header_label.xml #generated:50
+# view res/layout/radial_time_header_label.xml #generated:91
+-keep class com.doomonafireball.betterpickers.widget.AccessibleTextView { <init>(...); }
+
+# view res/layout/number_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.widget.AutoScrollHorizontalScrollView { <init>(...); }
+
+# view res/layout/date_picker_view.xml #generated:61
+# view res/layout/expiration_picker_view.xml #generated:62
+-keep class com.doomonafireball.betterpickers.widget.UnderlinePageIndicatorPicker { <init>(...); }
+
+# view res/layout/date_picker_view.xml #generated:22
+# view res/layout/date_picker_view.xml #generated:29
+# view res/layout/date_picker_view.xml #generated:36
+# view res/layout/expiration_picker_view.xml #generated:22
+# view res/layout/expiration_picker_view.xml #generated:29
+# view res/layout/expiration_picker_view.xml #generated:37
+# view res/layout/hms_picker_view.xml #generated:22
+# view res/layout/hms_picker_view.xml #generated:29
+# view res/layout/hms_picker_view.xml #generated:38
+# view res/layout/hms_picker_view.xml #generated:45
+# view res/layout/hms_picker_view.xml #generated:52
+# view res/layout/hms_picker_view.xml #generated:61
+# view res/layout/hms_picker_view.xml #generated:68
+# view res/layout/hms_picker_view.xml #generated:75
+# view res/layout/number_picker_view.xml #generated:26
+# view res/layout/number_picker_view.xml #generated:33
+# view res/layout/number_picker_view.xml #generated:41
+# view res/layout/number_picker_view.xml #generated:48
+# view res/layout/number_picker_view.xml #generated:56
+# view res/layout/time_picker_view.xml #generated:22
+# view res/layout/time_picker_view.xml #generated:29
+# view res/layout/time_picker_view.xml #generated:36
+# view res/layout/time_picker_view.xml #generated:44
+# view res/layout/time_picker_view.xml #generated:51
+# view res/layout/time_picker_view.xml #generated:58
+-keep class com.doomonafireball.betterpickers.widget.ZeroTopPaddingTextView { <init>(...); }
+
+# view res/layout/signal_map_view.xml #generated:8
+-keep class com.google.android.gms.maps.MapView { <init>(...); }
+
+# view res/xml/preferences_chats.xml #generated:13
+# view res/xml/preferences_chats.xml #generated:21
+# view res/xml/preferences_chats.xml #generated:5
+-keep class com.h6ah4i.android.compat.preference.MultiSelectListPreferenceCompat { <init>(...); }
+
+# view res/layout/device_list_fragment.xml #generated:45
+# view res/layout/experience_upgrade_activity.xml #generated:22
+-keep class com.melnykov.fab.FloatingActionButton { <init>(...); }
+
+# view res/layout/audio_view.xml #generated:22
+# view res/layout/share_activity.xml #generated:14
+# view res/layout/transfer_controls_view.xml #generated:5
+-keep class com.pnikosis.materialishprogress.ProgressWheel { <init>(...); }
+
+# view AndroidManifest.xml #generated:437
+-keep class com.soundcloud.android.crop.CropImageActivity { <init>(...); }
+
+# view res/layout/crop__activity_crop.xml #generated:12
+-keep class com.soundcloud.android.crop.CropImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class edu.cmu.cylab.starslinger.exchange.ExchangeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class edu.cmu.cylab.starslinger.exchange.GroupingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:161
+-keep class edu.cmu.cylab.starslinger.exchange.VerifyActivity { <init>(...); }
+
+# view res/layout/recurrencepicker.xml #generated:66
+-keep class org.jraf.android.backport.switchwidget.Switch { <init>(...); }
+
+# view AndroidManifest.xml #generated:169
+-keep class org.thoughtcrime.redphone.RedPhone { <init>(...); }
+
+# view AndroidManifest.xml #generated:439
+-keep class org.thoughtcrime.redphone.RedPhoneService { <init>(...); }
+
+# view AndroidManifest.xml #generated:415
+-keep class org.thoughtcrime.redphone.RedPhoneShare { <init>(...); }
+
+# view res/layout/redphone_call_screen.xml #generated:22
+-keep class org.thoughtcrime.redphone.ui.CallCard { <init>(...); }
+
+# view res/layout/redphone_call_screen.xml #generated:26
+-keep class org.thoughtcrime.redphone.ui.CallControls { <init>(...); }
+
+# view res/layout/redphone.xml #generated:23
+-keep class org.thoughtcrime.redphone.ui.CallScreen { <init>(...); }
+
+# view res/layout/redphone_call_controls.xml #generated:47
+-keep class org.thoughtcrime.redphone.util.multiwaveview.MultiWaveView { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class org.thoughtcrime.securesms.ApplicationContext { <init>(...); }
+
+# view AndroidManifest.xml #generated:350
+-keep class org.thoughtcrime.securesms.ApplicationPreferencesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:433
+-keep class org.thoughtcrime.securesms.BlockedContactsActivity { <init>(...); }
+
+# view res/layout/already_verified.xml #generated:29
+# view res/layout/certify_key_fragment.xml #generated:29
+# view res/layout/contact_selection_activity.xml #generated:16
+# view res/layout/invite_activity.xml #generated:95
+# view res/layout/uncertify_key_fragment.xml #generated:29
+-keep class org.thoughtcrime.securesms.ContactSelectionListFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:258
+-keep class org.thoughtcrime.securesms.ConversationActivity { <init>(...); }
+
+# view res/layout/conversation_item_received.xml #generated:2
+# view res/layout/conversation_item_sent.xml #generated:2
+-keep class org.thoughtcrime.securesms.ConversationItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:230
+-keep class org.thoughtcrime.securesms.ConversationListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:248
+-keep class org.thoughtcrime.securesms.ConversationListArchiveActivity { <init>(...); }
+
+# view res/layout/conversation_list_item_view.xml #generated:2
+-keep class org.thoughtcrime.securesms.ConversationListItem { <init>(...); }
+
+# view res/layout/conversation_list_item_action.xml #generated:2
+-keep class org.thoughtcrime.securesms.ConversationListItemAction { <init>(...); }
+
+# view AndroidManifest.xml #generated:268
+-keep class org.thoughtcrime.securesms.ConversationPopupActivity { <init>(...); }
+
+# view res/layout/conversation_title_view.xml #generated:2
+-keep class org.thoughtcrime.securesms.ConversationTitleView { <init>(...); }
+
+# view res/layout/conversation_item_update.xml #generated:2
+-keep class org.thoughtcrime.securesms.ConversationUpdateItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:176
+-keep class org.thoughtcrime.securesms.CountrySelectionActivity { <init>(...); }
+
+# view res/layout/country_selection.xml #generated:6
+-keep class org.thoughtcrime.securesms.CountrySelectionFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:286
+-keep class org.thoughtcrime.securesms.DatabaseMigrationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:291
+-keep class org.thoughtcrime.securesms.DatabaseUpgradeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:360
+-keep class org.thoughtcrime.securesms.DeviceActivity { <init>(...); }
+
+# view res/layout/device_list_item_view.xml #generated:2
+-keep class org.thoughtcrime.securesms.DeviceListItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:197
+-keep class org.thoughtcrime.securesms.DeviceProvisioningActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:379
+-keep class org.thoughtcrime.securesms.DummyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:296
+-keep class org.thoughtcrime.securesms.ExperienceUpgradeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:590
+-keep class org.thoughtcrime.securesms.ExperienceUpgradeActivity$AppUpgradeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:282
+-keep class org.thoughtcrime.securesms.GroupCreateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:179
+-keep class org.thoughtcrime.securesms.ImportExportActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class org.thoughtcrime.securesms.InviteActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:364
+-keep class org.thoughtcrime.securesms.LogSubmitActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:375
+-keep class org.thoughtcrime.securesms.MediaOverviewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:369
+-keep class org.thoughtcrime.securesms.MediaPreviewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:276
+-keep class org.thoughtcrime.securesms.MessageDetailsActivity { <init>(...); }
+
+# view res/layout/message_recipient_list_item.xml #generated:2
+-keep class org.thoughtcrime.securesms.MessageRecipientListItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:315
+-keep class org.thoughtcrime.securesms.NewConversationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:337
+-keep class org.thoughtcrime.securesms.PassphraseChangeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:301
+-keep class org.thoughtcrime.securesms.PassphraseCreateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:308
+-keep class org.thoughtcrime.securesms.PassphrasePromptActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:390
+-keep class org.thoughtcrime.securesms.PlayServicesProblemActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:192
+-keep class org.thoughtcrime.securesms.PromptMmsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:320
+-keep class org.thoughtcrime.securesms.PushContactSelectionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:429
+-keep class org.thoughtcrime.securesms.RecipientPreferenceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:353
+-keep class org.thoughtcrime.securesms.RegistrationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:357
+-keep class org.thoughtcrime.securesms.RegistrationProgressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:212
+-keep class org.thoughtcrime.securesms.ShareActivity { <init>(...); }
+
+# view res/layout/share_list_item_view.xml #generated:2
+-keep class org.thoughtcrime.securesms.ShareListItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:394
+-keep class org.thoughtcrime.securesms.SmsSendtoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:341
+-keep class org.thoughtcrime.securesms.VerifyIdentityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:346
+-keep class org.thoughtcrime.securesms.VerifyIdentitySafeSlingerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:325
+-keep class org.thoughtcrime.securesms.ViewIdentityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:329
+-keep class org.thoughtcrime.securesms.ViewLocalIdentityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:334
+-keep class org.thoughtcrime.securesms.ViewLocalIdentitySSActivity { <init>(...); }
+
+# view res/layout/conversation_item_received.xml #generated:162
+# view res/layout/conversation_item_sent.xml #generated:19
+# view res/layout/conversation_list_item_view.xml #generated:53
+-keep class org.thoughtcrime.securesms.components.AlertView { <init>(...); }
+
+# view res/layout/audio_view.xml #generated:15
+# view res/layout/contact_filter_toolbar.xml #generated:35
+# view res/layout/conversation_input_panel.xml #generated:144
+# view res/layout/prompt_passphrase_activity.xml #generated:37
+-keep class org.thoughtcrime.securesms.components.AnimatingToggle { <init>(...); }
+
+# view res/layout/conversation_activity.xml #generated:65
+# view res/layout/conversation_item_received.xml #generated:59
+# view res/layout/conversation_item_sent.xml #generated:51
+-keep class org.thoughtcrime.securesms.components.AudioView { <init>(...); }
+
+# view res/layout/blocked_contact_list_item.xml #generated:9
+# view res/layout/contact_selection_list_item.xml #generated:14
+# view res/layout/conversation_item_received.xml #generated:30
+# view res/layout/conversation_list_item_view.xml #generated:9
+# view res/layout/message_recipient_list_item.xml #generated:12
+# view res/layout/recipient_preference_activity.xml #generated:22
+# view res/layout/share_list_item_view.xml #generated:8
+-keep class org.thoughtcrime.securesms.components.AvatarImageView { <init>(...); }
+
+# view res/layout/attachment_type_selector.xml #generated:123
+# view res/layout/attachment_type_selector.xml #generated:148
+# view res/layout/attachment_type_selector.xml #generated:180
+# view res/layout/attachment_type_selector.xml #generated:22
+# view res/layout/attachment_type_selector.xml #generated:45
+# view res/layout/attachment_type_selector.xml #generated:68
+# view res/layout/attachment_type_selector.xml #generated:92
+-keep class org.thoughtcrime.securesms.components.CircleColorImageView { <init>(...); }
+
+# view res/layout/conversation_input_panel.xml #generated:39
+-keep class org.thoughtcrime.securesms.components.ComposeText { <init>(...); }
+
+# view res/layout/already_verified.xml #generated:21
+# view res/layout/certify_key_fragment.xml #generated:21
+# view res/layout/contact_selection_activity.xml #generated:8
+# view res/layout/invite_activity.xml #generated:87
+# view res/layout/uncertify_key_fragment.xml #generated:21
+-keep class org.thoughtcrime.securesms.components.ContactFilterToolbar { <init>(...); }
+
+# view res/xml/preferences_manual_mms.xml #generated:12
+# view res/xml/preferences_manual_mms.xml #generated:18
+# view res/xml/preferences_manual_mms.xml #generated:24
+# view res/xml/preferences_manual_mms.xml #generated:30
+# view res/xml/preferences_manual_mms.xml #generated:36
+# view res/xml/preferences_manual_mms.xml #generated:6
+-keep class org.thoughtcrime.securesms.components.CustomDefaultPreference { <init>(...); }
+
+# view res/layout/conversation_item_received.xml #generated:124
+# view res/layout/conversation_item_sent.xml #generated:147
+# view res/layout/conversation_list_item_view.xml #generated:131
+-keep class org.thoughtcrime.securesms.components.DeliveryStatusView { <init>(...); }
+
+# view res/layout/conversation_list_item_view.xml #generated:37
+# view res/layout/message_recipient_list_item.xml #generated:39
+# view res/layout/share_list_item_view.xml #generated:33
+-keep class org.thoughtcrime.securesms.components.FromTextView { <init>(...); }
+
+# view res/layout/conversation_input_panel.xml #generated:54
+-keep class org.thoughtcrime.securesms.components.HidingLinearLayout { <init>(...); }
+
+# view res/layout/group_create_activity.xml #generated:24
+-keep class org.thoughtcrime.securesms.components.ImageDivet { <init>(...); }
+
+# view res/layout/conversation_activity.xml #generated:3
+-keep class org.thoughtcrime.securesms.components.InputAwareLayout { <init>(...); }
+
+# view res/layout/conversation_input_panel.xml #generated:6
+-keep class org.thoughtcrime.securesms.components.InputPanel { <init>(...); }
+
+# view res/layout/conversation_input_panel.xml #generated:71
+-keep class org.thoughtcrime.securesms.components.MicrophoneRecorderView { <init>(...); }
+
+# view res/layout/group_create_activity.xml #generated:92
+-keep class org.thoughtcrime.securesms.components.PushRecipientsPanel { <init>(...); }
+
+# view res/layout/contact_selection_list_fragment.xml #generated:27
+-keep class org.thoughtcrime.securesms.components.RecyclerViewFastScroller { <init>(...); }
+
+# view res/layout/conversation_activity.xml #generated:43
+-keep class org.thoughtcrime.securesms.components.RemovableMediaView { <init>(...); }
+
+# view res/layout/emoji_drawer.xml #generated:28
+-keep class org.thoughtcrime.securesms.components.RepeatableImageKey { <init>(...); }
+
+# view res/layout/conversation_input_panel.xml #generated:160
+-keep class org.thoughtcrime.securesms.components.SendButton { <init>(...); }
+
+# view res/layout/device_add_fragment.xml #generated:21
+-keep class org.thoughtcrime.securesms.components.ShapeScrim { <init>(...); }
+
+# view res/layout/media_overview_item.xml #generated:2
+-keep class org.thoughtcrime.securesms.components.SquareFrameLayout { <init>(...); }
+
+# view res/xml/preferences_advanced.xml #generated:10
+# view res/xml/preferences_advanced.xml #generated:4
+# view res/xml/preferences_app_protection.xml #generated:25
+# view res/xml/preferences_app_protection.xml #generated:4
+# view res/xml/preferences_chats.xml #generated:31
+# view res/xml/preferences_notifications.xml #generated:4
+# view res/xml/preferences_notifications.xml #generated:60
+# view res/xml/preferences_sms_mms.xml #generated:10
+# view res/xml/preferences_sms_mms.xml #generated:20
+# view res/xml/preferences_sms_mms.xml #generated:26
+# view res/xml/preferences_sms_mms.xml #generated:4
+# view res/xml/recipient_preferences.xml #generated:4
+-keep class org.thoughtcrime.securesms.components.SwitchPreferenceCompat { <init>(...); }
+
+# view res/layout/conversation_activity.xml #generated:56
+# view res/layout/conversation_item_received.xml #generated:48
+# view res/layout/conversation_item_sent.xml #generated:38
+# view res/layout/conversation_list_item_view.xml #generated:84
+# view res/layout/media_overview_item.xml #generated:7
+-keep class org.thoughtcrime.securesms.components.ThumbnailView { <init>(...); }
+
+# view res/layout/transfer_controls_stub.xml #generated:2
+-keep class org.thoughtcrime.securesms.components.TransferControlView { <init>(...); }
+
+# view res/layout/media_preview_activity.xml #generated:8
+-keep class org.thoughtcrime.securesms.components.ZoomingImageView { <init>(...); }
+
+# view res/layout/device_add_fragment.xml #generated:9
+# view res/layout/quick_attachment_drawer.xml #generated:4
+-keep class org.thoughtcrime.securesms.components.camera.CameraView { <init>(...); }
+
+# view res/layout/conversation_activity.xml #generated:11
+-keep class org.thoughtcrime.securesms.components.camera.QuickAttachmentDrawer { <init>(...); }
+
+# view res/layout/conversation_activity.xml #generated:97
+-keep class org.thoughtcrime.securesms.components.emoji.EmojiDrawer { <init>(...); }
+
+# view res/layout/group_create_activity.xml #generated:31
+-keep class org.thoughtcrime.securesms.components.emoji.EmojiEditText { <init>(...); }
+
+# view res/layout/contact_selection_list_item.xml #generated:30
+# view res/layout/conversation_item_received.xml #generated:67
+# view res/layout/conversation_item_sent.xml #generated:58
+# view res/layout/conversation_list_item_view.xml #generated:67
+# view res/layout/conversation_title_view.xml #generated:11
+# view res/layout/group_create_activity.xml #generated:60
+# view res/layout/recipient_filter_item.xml #generated:33
+# view res/layout/recipient_preference_activity.xml #generated:35
+-keep class org.thoughtcrime.securesms.components.emoji.EmojiTextView { <init>(...); }
+
+# view res/layout/conversation_input_panel.xml #generated:31
+-keep class org.thoughtcrime.securesms.components.emoji.EmojiToggle { <init>(...); }
+
+# view res/layout/conversation_activity.xml #generated:49
+-keep class org.thoughtcrime.securesms.components.location.SignalMapView { <init>(...); }
+
+# view res/layout/conversation_activity.xml #generated:26
+# view res/layout/conversation_list_fragment.xml #generated:15
+-keep class org.thoughtcrime.securesms.components.reminder.ReminderView { <init>(...); }
+
+# view res/layout/contact_selection_list_item.xml #generated:3
+-keep class org.thoughtcrime.securesms.contacts.ContactSelectionListItem { <init>(...); }
+
+# view res/layout/push_recipients_panel.xml #generated:9
+# view res/layout/single_recipient_panel.xml #generated:9
+-keep class org.thoughtcrime.securesms.contacts.RecipientsEditor { <init>(...); }
+
+# view AndroidManifest.xml #generated:495
+-keep class org.thoughtcrime.securesms.gcm.GcmBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:539
+-keep class org.thoughtcrime.securesms.notifications.MarkReadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:585
+-keep class org.thoughtcrime.securesms.notifications.MessageNotifier$DeleteReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:580
+-keep class org.thoughtcrime.securesms.notifications.MessageNotifier$ReminderReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:547
+-keep class org.thoughtcrime.securesms.notifications.WearReplyReceiver { <init>(...); }
+
+# view res/xml/recipient_preferences.xml #generated:12
+-keep class org.thoughtcrime.securesms.preferences.AdvancedRingtonePreference { <init>(...); }
+
+# view res/layout/blocked_contact_list_item.xml #generated:3
+-keep class org.thoughtcrime.securesms.preferences.BlockedContactListItem { <init>(...); }
+
+# view res/xml/recipient_preferences.xml #generated:29
+-keep class org.thoughtcrime.securesms.preferences.ColorPreference { <init>(...); }
+
+# view res/xml/preferences_notifications.xml #generated:31
+-keep class org.thoughtcrime.securesms.preferences.LedBlinkPatternListPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:209
+-keep class org.thoughtcrime.securesms.preferences.MmsPreferencesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:561
+-keep class org.thoughtcrime.securesms.providers.MmsBodyProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:556
+-keep class org.thoughtcrime.securesms.providers.PartProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:469
+-keep class org.thoughtcrime.securesms.service.AccountAuthenticatorService { <init>(...); }
+
+# view AndroidManifest.xml #generated:442
+-keep class org.thoughtcrime.securesms.service.ApplicationMigrationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:480
+-keep class org.thoughtcrime.securesms.service.ContactsSyncAdapterService { <init>(...); }
+
+# view AndroidManifest.xml #generated:574
+-keep class org.thoughtcrime.securesms.service.DirectoryRefreshListener { <init>(...); }
+
+# view AndroidManifest.xml #generated:445
+-keep class org.thoughtcrime.securesms.service.KeyCachingService { <init>(...); }
+
+# view AndroidManifest.xml #generated:451
+-keep class org.thoughtcrime.securesms.service.MessageRetrievalService { <init>(...); }
+
+# view AndroidManifest.xml #generated:523
+-keep class org.thoughtcrime.securesms.service.MmsListener { <init>(...); }
+
+# view AndroidManifest.xml #generated:454
+-keep class org.thoughtcrime.securesms.service.QuickResponseService { <init>(...); }
+
+# view AndroidManifest.xml #generated:567
+-keep class org.thoughtcrime.securesms.service.RegistrationNotifier { <init>(...); }
+
+# view AndroidManifest.xml #generated:448
+-keep class org.thoughtcrime.securesms.service.RegistrationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:516
+-keep class org.thoughtcrime.securesms.service.SmsDeliveryListener { <init>(...); }
+
+# view AndroidManifest.xml #generated:504
+-keep class org.thoughtcrime.securesms.service.SmsListener { <init>(...); }
+
+# view res/layout/conversation_item_pending_v11.xml #generated:5
+-keep class pl.tajchert.sample.DotsTextView { <init>(...); }
+

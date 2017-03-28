@@ -1,0 +1,293 @@
+-injars /home/amatanat/Documents/Signal-Android/build/intermediates/transforms/proguard/debug/jars/3/1f/main.jar
+-outjars /home/amatanat/Documents/Signal-Android/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/amatanat/Android/Sdk/build-tools/22.0.1/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration /home/amatanat/Documents/Signal-Android/build/intermediates/multi-dex/debug/components.flags
+
+
+-keep class org.thoughtcrime.securesms.ApplicationContext {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class edu.cmu.cylab.starslinger.exchange.ExchangeActivity {
+    <init>();
+}
+
+-keep class edu.cmu.cylab.starslinger.exchange.GroupingActivity {
+    <init>();
+}
+
+-keep class edu.cmu.cylab.starslinger.exchange.VerifyActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.redphone.RedPhone {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.CountrySelectionActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ImportExportActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.InviteActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.PromptMmsActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.DeviceProvisioningActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.preferences.MmsPreferencesActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ShareActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ConversationListActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ConversationListArchiveActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ConversationActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ConversationPopupActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.MessageDetailsActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.GroupCreateActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.DatabaseMigrationActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.DatabaseUpgradeActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ExperienceUpgradeActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.PassphraseCreateActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.PassphrasePromptActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.NewConversationActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.PushContactSelectionActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ViewIdentityActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ViewLocalIdentityActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ViewLocalIdentitySSActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.PassphraseChangeActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.VerifyIdentityActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.VerifyIdentitySafeSlingerActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ApplicationPreferencesActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.RegistrationActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.RegistrationProgressActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.DeviceActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.LogSubmitActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.MediaPreviewActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.MediaOverviewActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.DummyActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.PlayServicesProblemActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.SmsSendtoActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.redphone.RedPhoneShare {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.RecipientPreferenceActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.BlockedContactsActivity {
+    <init>();
+}
+
+-keep class com.soundcloud.android.crop.CropImageActivity {
+    <init>();
+}
+
+-keep class org.thoughtcrime.redphone.RedPhoneService {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.ApplicationMigrationService {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.KeyCachingService {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.RegistrationService {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.MessageRetrievalService {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.QuickResponseService {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.AccountAuthenticatorService {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.ContactsSyncAdapterService {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.gcm.GcmBroadcastReceiver {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.SmsListener {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.SmsDeliveryListener {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.MmsListener {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.notifications.MarkReadReceiver {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.notifications.WearReplyReceiver {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.providers.PartProvider {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.providers.MmsBodyProvider {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.RegistrationNotifier {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.service.DirectoryRefreshListener {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.notifications.MessageNotifier$ReminderReceiver {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.notifications.MessageNotifier$DeleteReceiver {
+    <init>();
+}
+
+-keep class org.thoughtcrime.securesms.ExperienceUpgradeActivity$AppUpgradeReceiver {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

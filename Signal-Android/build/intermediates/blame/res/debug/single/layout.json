@@ -1,0 +1,790 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/country_selection.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/country_selection.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/country_selection_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/country_selection_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/custom_default_preference_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/custom_default_preference_dialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/sse__verifywords.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/layout/sse__verifywords.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/alert_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/alert_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/redphone.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/redphone.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/selected_recipient_list_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/selected_recipient_list_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/led_pattern_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/led_pattern_dialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/empty2.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/empty2.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/toolbar_standalone_white.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/toolbar_standalone_white.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/sse__promptdialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/layout/sse__promptdialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/group_create_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/group_create_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/time_zone_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/time_zone_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/database_upgrade_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/database_upgrade_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/radial_time_picker_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/calendar_date_picker_done_button.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/calendar_date_picker_done_button.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/time_picker_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/time_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/prompt_apn_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/prompt_apn_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/reminder_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/reminder_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/contact_selection_list_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/contact_selection_list_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_item_received.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_item_received.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/contact_filter_toolbar.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/contact_filter_toolbar.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/share_intent_row.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/org.whispersystems/libpastelog/1.0.7/res/layout/share_intent_row.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/recurrencepicker_freq_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/timezonepickerview.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/timezonepickerview.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/quick_attachment_drawer.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/quick_attachment_drawer.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/fragment_submit_log.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/org.whispersystems/libpastelog/1.0.7/res/layout/fragment_submit_log.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/attachment_type_selector.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/attachment_type_selector.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/psts_tab.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/res/layout/psts_tab.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_list_item_action.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_list_item_action.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/safeslinger_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/safeslinger_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/device_list_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/device_list_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/radial_time_header_label.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/radial_time_header_label.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/toolbar_standalone.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/toolbar_standalone.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/prompt_passphrase_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/prompt_passphrase_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/single_recipient_panel.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/single_recipient_panel.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/preference_list_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/support-v4-preferencefragment/1.0.0/res/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/key_caching_notification.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/key_caching_notification.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/number_picker_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/number_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/recipient_preference_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/recipient_preference_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/experience_upgrade_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/experience_upgrade_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/hms_picker_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/hms_picker_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/recurrencepicker_end_text.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/redphone_call_screen.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/redphone_call_screen.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_item_pending_v11.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_item_pending_v11.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/log_submit_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/log_submit_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/transfer_controls_stub.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/transfer_controls_stub.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/keyboard_with_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/keyboard_with_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/layout_snackbar_include.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/media_overview_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/media_overview_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/device_link_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/device_link_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/dots_text_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/pl.tajchert/waitingdots/0.1.0/res/layout/dots_text_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/registration_progress_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/registration_progress_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/calendar_date_picker_view_animator.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/calendar_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/toolbar_standalone_orange.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/toolbar_standalone_orange.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/quick_camera_controls.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/quick_camera_controls.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/toolbar_inner_layout_white.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/toolbar_inner_layout_white.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/certify_key_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/certify_key_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/color_preference_items.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/color_preference_items.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/message_details_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/message_details_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/three_keys_view_leftright.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_item_update.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_item_update.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/thumbnail_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/thumbnail_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/calendar_date_picker_selected_date.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/calendar_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/crop__activity_crop.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/0.9.10/res/layout/crop__activity_crop.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/already_verified.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/already_verified.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/recipient_filter_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/recipient_filter_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/color_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/color_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/push_recipients_panel.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/push_recipients_panel.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/recurrencepicker.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/recurrencepicker.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/create_passphrase_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/create_passphrase_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/safeslinger_attemp.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/safeslinger_attemp.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/quick_camera_controls_land.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/quick_camera_controls_land.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/verify_identity_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/verify_identity_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/media_overview_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/media_overview_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/import_export_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/import_export_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_list_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_list_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/load_more_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/load_more_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/three_keys_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/three_keys_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/keyboard_right_drawable.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/audio_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/audio_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/country_list_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/country_list_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/transfer_controls_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/transfer_controls_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/verify_identity_safeslinger.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/verify_identity_safeslinger.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/crop__layout_done_cancel.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/0.9.10/res/layout/crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/three_keys_view_text.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/three_keys_view_text.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/centered_app_title.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/centered_app_title.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/keyboard_right_drawable_with_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/layout_snackbar.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/message_details_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/message_details_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/keyboard.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/keyboard.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_title_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_title_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/calendar_year_label_text_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/view_identity_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/view_identity_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notify_area.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/notify_area.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_input_panel.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_input_panel.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/import_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/import_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/switch_compat_preference.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/switch_compat_preference.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_item_sent.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_item_sent.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/share_list_item_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/share_list_item_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/number_picker_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/number_picker_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/color_preference_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/color_preference_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_item_pending.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_item_pending.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/expiration_picker_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/emoji_drawer.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/emoji_drawer.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/share_intent_list.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/org.whispersystems/libpastelog/1.0.7/res/layout/share_intent_list.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/uncertify_key_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/uncertify_key_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/media_view_remove_button.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/media_view_remove_button.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/emoji_grid_layout.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/emoji_grid_layout.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/layout_tab_icon.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/conversation_list_item_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/conversation_list_item_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/keyboard_text.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/keyboard_text.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/redphone_call_controls.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/redphone_call_controls.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/signal_map_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/signal_map_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/delivery_status_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/delivery_status_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/contact_selection_list_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/contact_selection_list_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/verified_safeslinger_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/verified_safeslinger_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/toolbar_inner_layout.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/toolbar_inner_layout.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/three_keys_view_right_drawable.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/share_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/share_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/blocked_contacts_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/blocked_contacts_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/change_passphrase_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/change_passphrase_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/layout_tab_text.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/device_add_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/device_add_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/blocked_contact_list_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/blocked_contact_list_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/date_picker_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/expiration_picker_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/expiration_picker_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/keyboard_text_with_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/keyboard_text_with_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/invite_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/invite_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/calendar_date_picker_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/transport_selection_list_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/transport_selection_list_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/certify_key_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/certify_key_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/registration_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/registration_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/message_recipient_list_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/message_recipient_list_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/contact_selection_recyclerview_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/contact_selection_recyclerview_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/icon_list_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/icon_list_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/calendar_date_picker_header_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/share_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/share_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/date_picker_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/date_picker_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/contact_selection_list_header.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/contact_selection_list_header.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/device_list_item_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/device_list_item_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/sse__splash.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/Signal-Android.extern/safeslinger-exchange/unspecified/res/layout/sse__splash.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/database_migration_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/database_migration_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/time_zone_filter_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/time_zone_filter_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/media_preview_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/media_preview_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/recycler_view_fast_scroller.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/recycler_view_fast_scroller.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/registration_problems.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/registration_problems.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/empty_time_zone_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/empty_time_zone_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/time_picker_view.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/time_picker_view.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/export_fragment.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/export_fragment.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/redphone_call_card.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/redphone_call_card.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/contact_selection_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/layout/contact_selection_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/layout/hms_picker_dialog.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/layout/hms_picker_dialog.xml"
+    }
+]

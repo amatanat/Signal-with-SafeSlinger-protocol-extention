@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/item_background_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/clickable_card_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/clickable_card_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/share_list_divider_shape_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/share_list_divider_shape_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_ic_lockscreen_answer.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_ic_lockscreen_answer.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/done_background_color.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/done_background_color.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_nature_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_nature_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_emoticons_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_emoticons_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/fab_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/drawable/fab_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_attachment_close_circle.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_attachment_close_circle.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/recurrence_bubble_fill.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/recurrence_bubble_fill.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_list_selector_focused_and_checked.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_list_selector_focused_and_checked.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/ic_check_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/ic_check_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/import_export_item_background_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/import_export_item_background_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/info_round.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/info_round.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_places_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_places_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/blocked_indicator_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/blocked_indicator_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/background_pattern.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/background_pattern.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_btn_compound_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_btn_compound_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_end_call_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_end_call_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/ic_check_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/ic_check_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/ic_backspace_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/ic_backspace_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_emoticons_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_emoticons_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_recent_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_recent_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/crop__selectable_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/0.9.10/res/drawable/crop__selectable_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_item_sent_indicator_text_shape_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_item_sent_indicator_text_shape_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_dialpad_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_dialpad_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_symbol_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_symbol_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/key_background_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/key_background_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_symbol_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_symbol_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/background_pane.9.png",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/background_pane.9.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_dialpad_dark_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_dialpad_dark_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_list_item_read_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_list_item_read_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/background_pattern_repeat.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/background_pattern_repeat.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_places_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_places_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_selector_background_transition.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_selector_background_transition.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/edit_text_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/edit_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/selectable_item_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/selectable_item_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/compose_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/compose_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_people_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_people_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/snackbar_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/drawable/snackbar_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_btn_compound_mute.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_btn_compound_mute.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_recent_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_recent_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/psts_background_tab.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/res/drawable/psts_background_tab.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/quick_camera_shutter_ring.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/quick_camera_shutter_ring.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/done_background_color_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/done_background_color_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/actionbar_icon.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/actionbar_icon.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_list_item_unread_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_list_item_unread_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_objects_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_objects_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/recycler_view_fast_scroller_handle.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/recycler_view_fast_scroller_handle.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_objects_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_objects_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/crop__texture.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/0.9.10/res/drawable/crop__texture.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/import_export_item_background_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/import_export_item_background_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_item_sent_indicator_text_shape.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_item_sent_indicator_text_shape.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_black_rectangle.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_black_rectangle.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/circle_touch_highlight_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/circle_touch_highlight_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/progress_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/progress_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/notify_panel_notification_icon_bg_tile.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/notify_panel_notification_icon_bg_tile.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/switch_thumb.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/switch_thumb.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_nature_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_nature_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_list_divider_shape_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_list_divider_shape_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_list_item_unread_background_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_list_item_unread_background_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/emoji_category_people_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/emoji_category_people_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/spinner_background_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_btn_compound_audio.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_btn_compound_audio.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/clickable_card_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/clickable_card_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/button_background_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/button_background_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/list_selector_background_transition_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/ic_backspace_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/ic_backspace_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/key_background_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/key_background_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/button_background_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/button_background_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/touch_highlight_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/touch_highlight_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_item_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_item_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_ic_in_call_touch_handle.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_ic_in_call_touch_handle.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/contact_photo_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/contact_photo_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/light_touch_highlight_background.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/light_touch_highlight_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/switch_track_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable/switch_track_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/circle_tintable.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/circle_tintable.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/error_round.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/error_round.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_list_item_read_background_dark.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_list_item_read_background_dark.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/share_list_divider_shape.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/share_list_divider_shape.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/conversation_list_divider_shape.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/conversation_list_divider_shape.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/redphone_ic_lockscreen_decline.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/redphone_ic_lockscreen_decline.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable/rounded_rectangle.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/drawable/rounded_rectangle.xml"
+    }
+]

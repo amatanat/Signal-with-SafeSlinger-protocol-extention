@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_callable_insecure.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_callable_insecure.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_list.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_list.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_add_to_contacts.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_add_to_contacts.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_group_options.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_group_options.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_list_empty.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_list_empty.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/media_overview.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/media_overview.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/redphone_audio_popup_menu.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/redphone_audio_popup_menu.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_muted.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_muted.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_secure.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_secure.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/contact_selection.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/contact_selection.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/text_secure_normal.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/text_secure_normal.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_insecure.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_insecure.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_list_batch_unarchive.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_list_batch_unarchive.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/media_preview.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/media_preview.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_context.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_context.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/new_conversation_activity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/new_conversation_activity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/group_create.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/group_create.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/secure_conversation.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/secure_conversation.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_mms_group_options.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_mms_group_options.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/log_submit.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/log_submit.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_list_batch_archive.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_list_batch_archive.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_unmuted.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_unmuted.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/insecure_conversation.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/insecure_conversation.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_popup.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_popup.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/share.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/share.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/key_scanning.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/key_scanning.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_callable_secure.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_callable_secure.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/local_identity.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/local_identity.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_push_group_options.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_push_group_options.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/menu/conversation_list_batch.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/menu/conversation_list_batch.xml"
+    }
+]

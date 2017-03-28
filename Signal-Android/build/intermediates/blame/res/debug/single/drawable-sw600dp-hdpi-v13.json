@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/ic_backspace_normal_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-sw600dp-hdpi/ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/ic_backspace_disabled_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-sw600dp-hdpi/ic_backspace_disabled_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/ic_backspace_normal_light.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-sw600dp-hdpi/ic_backspace_normal_light.png"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/drawable-sw600dp-hdpi-v13/ic_backspace_disabled_dark.png",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.3/res/drawable-sw600dp-hdpi/ic_backspace_disabled_dark.png"
+    }
+]

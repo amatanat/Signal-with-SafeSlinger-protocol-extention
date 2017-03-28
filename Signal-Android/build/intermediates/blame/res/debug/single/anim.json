@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/slide_from_right.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/slide_from_right.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/slide_from_bottom.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/slide_from_bottom.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/anim/snackbar_out.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/slide_from_top.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/slide_from_top.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/slide_to_top.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/slide_to_top.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/slide_to_right.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/slide_to_right.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/anim/fab_in.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/slide_to_bottom.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/slide_to_bottom.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/animation_toggle_in.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/animation_toggle_in.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/anim/fab_out.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/anim/snackbar_in.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/animation_toggle_out.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/animation_toggle_out.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/fade_scale_in.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/fade_scale_in.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/fade_scale_out.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/res/anim/fade_scale_out.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/amatanat/Documents/Signal-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_top.xml"
+    }
+]

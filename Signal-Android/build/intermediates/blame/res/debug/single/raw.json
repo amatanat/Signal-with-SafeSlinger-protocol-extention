@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/raw/whisper.store",
+        "source": "/home/amatanat/Documents/Signal-Android/res/raw/whisper.store"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/raw/redphone_busy.mp3",
+        "source": "/home/amatanat/Documents/Signal-Android/res/raw/redphone_busy.mp3"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/raw/redphone_handshake.mp3",
+        "source": "/home/amatanat/Documents/Signal-Android/res/raw/redphone_handshake.mp3"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/raw/redphone_completed.mp3",
+        "source": "/home/amatanat/Documents/Signal-Android/res/raw/redphone_completed.mp3"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/raw/redphone.store",
+        "source": "/home/amatanat/Documents/Signal-Android/res/raw/redphone.store"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/raw/redphone_outring.mp3",
+        "source": "/home/amatanat/Documents/Signal-Android/res/raw/redphone_outring.mp3"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/raw/redphone_failure.mp3",
+        "source": "/home/amatanat/Documents/Signal-Android/res/raw/redphone_failure.mp3"
+    },
+    {
+        "merged": "/home/amatanat/Documents/Signal-Android/build/intermediates/res/merged/debug/raw/redphone_sonarping.mp3",
+        "source": "/home/amatanat/Documents/Signal-Android/res/raw/redphone_sonarping.mp3"
+    }
+]

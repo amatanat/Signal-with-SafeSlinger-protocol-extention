@@ -1,0 +1,3 @@
+int[] styleable MultiSelectListPreferenceCompat { 0x010100b2, 0x010101f8 }
+int styleable MultiSelectListPreferenceCompat_android_entries 0
+int styleable MultiSelectListPreferenceCompat_android_entryValues 1
