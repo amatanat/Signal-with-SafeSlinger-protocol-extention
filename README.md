@@ -1,4 +1,4 @@
-MA-INF 3319 lab - README
+README
 ========================
 
 
