@@ -2,7 +2,7 @@ README
 ========================
 
 
-Directory contains all codes, report and presentation of lab. 
+Directory contains all codes, report and presentation of the project. 
 
 
 ### Directory structure: 
