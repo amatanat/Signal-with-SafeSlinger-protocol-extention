@@ -1,4 +1,4 @@
-To run TextSecure server using https
+Run TextSecure-Server using https
 -----------------------------------------
 
 You can generate a root CA, host key and certificates and keystores for the server
