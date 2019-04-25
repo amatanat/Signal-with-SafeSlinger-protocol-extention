@@ -10,20 +10,20 @@ Directory contains all codes, report and presentation of the project.
 
 [docs](docs/) 
 
-* [TS_https_readme.md](docs/TS_https_readme.md) is guide for using generated certificates.
-* [docs](docs/) also contains lab report and presentation. 
+* [TS_https_readme.md](docs/TS_https_readme.md) is a guide for using generated certificates.
+* [docs](docs/) also contains project report and presentation. 
 
 
 [PushServer](PushServer/)
 
 * Configuration file is [pushconfig.yml](PushServer/config/pushconfig.yml). 
-* Some credentials were removed because of the privacy reason. 
+* Some credentials were removed because of privacy reasons. 
 
 
 [TextSecure-Server](TextSecure-Server/)
 
 * Configuration file is [local.yml](TextSecure-Server/config/local.yml). 
-* Some credentials were removed because of the privacy reason. 
+* Some credentials were removed because of privacy reasons. 
 
 
 [Signal-Android](Signal-Android/)
